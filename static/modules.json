@@ -1,0 +1,34 @@
+{
+  "modules": [
+    {
+      "id": "home",
+      "name": "首页",
+      "material": "home"
+    },
+    {
+      "id": "system",
+      "name": "系统模块",
+      "material": "system"
+    },
+    {
+      "id": "test",
+      "name": "测试模块",
+      "material": "test"
+    },
+    {
+      "id": "task",
+      "name": "任务模块",
+      "material": "task"
+    }
+  ],
+  "frames": [
+    {
+      "id": "base",
+      "name": "基座A"
+    },
+    {
+      "id": "demo",
+      "name": "基座B"
+    }
+  ]
+}
